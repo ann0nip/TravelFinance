@@ -9,6 +9,7 @@ body {
   padding: 15px;
   margin: 0 auto;
 }
+<<<<<<< HEAD
 #formData{
    display: none;
 }
@@ -20,6 +21,8 @@ body {
   padding: 15px;
   margin: 0 auto;
 }
+=======
+>>>>>>> f32f0c01b0a9e7d9f3ce9af01cea276e3127ab86
 .form-signin .form-signin-heading,
 .form-signin .checkbox {
   margin-bottom: 10px;
@@ -43,7 +46,10 @@ body {
   margin-bottom: -1px;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+<<<<<<< HEAD
   margin-bottom: 10px;
+=======
+>>>>>>> f32f0c01b0a9e7d9f3ce9af01cea276e3127ab86
 }
 .form-signin input[type="password"] {
   margin-bottom: 10px;
